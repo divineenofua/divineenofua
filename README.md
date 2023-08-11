@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divineenofua
 - 👀 I’m interested in web development .
-- 🌱 I’m currently learning FrontEnd engineering at Altschool Africa
+- 🌱 I’m currently learning FrontEnd engineering at AltschoolAfrica
 - 💞️ I’m looking to collaborate on any project that help me learn
 - 📫 How to reach me 
   https://www.linkedin.com/in/divine-enofua-etue-07373b231
