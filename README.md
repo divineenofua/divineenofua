@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @divineenofua
-- 👀 I’m interested in web development .
-- 🌱 I’m currently learning FrontEnd engineering at AltschoolAfrica
-- 💞️ I’m looking to collaborate on any project that help me learn
+- 💼 Frontend Developer specializing in modern web technologies
+- 🛠️ Expertise in HTML, CSS, JavaScript and frontend frameworks
+- 🚀 Graduate of AltschoolAfrica's Frontend Engineering program
+- 💞️ Open to collaborating on innovative web projects and opportunities
 - 📫 How to reach me 
   https://www.linkedin.com/in/divine-enofua-etue-07373b231
-
-https://twitter.com/etue_divine?t=O7nlaFJMqMFnNHAMDoawhQ&s=09
+  https://twitter.com/etue_divine?t=O7nlaFJMqMFnNHAMDoawhQ&s=09
 
 
 
