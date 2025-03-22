@@ -4,9 +4,8 @@
 - 🚀 Graduate of AltschoolAfrica's Frontend Engineering program
 - 💞️ Open to collaborating on innovative web projects and opportunities
 - 📫 How to reach me 
-linkedin.com/in/divine-enofua-etue
-
-  
+https://linkedin.com/in/divine-enofua-etue
+<br>
 https://twitter.com/etue_divine?t=O7nlaFJMqMFnNHAMDoawhQ&s=09
 
 
