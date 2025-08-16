@@ -6,6 +6,8 @@
 - 📫 How to reach me 
 https://linkedin.com/in/divine-enofua-etue
 <br>
+divineenofua@gmail.com
+<br>
 https://twitter.com/etue_divine?t=O7nlaFJMqMFnNHAMDoawhQ&s=09
 
 
