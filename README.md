@@ -5,7 +5,6 @@
 - 💞️ Open to collaborating on innovative web projects and opportunities
 - 📫 How to reach me 
 https://linkedin.com/in/divine-enofua-etue
-
 divineenofua@gmail.com
 <br>
 https://twitter.com/etue_divine?t=O7nlaFJMqMFnNHAMDoawhQ&s=09
