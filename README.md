@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divineenofua
 - 💼 Frontend Developer specializing in modern web technologies
-- 🛠️ Expertise in HTML,CSS,JavaScript and frontend frameworks
+- 🛠️ Expertise in HTML,CSS,JavaScript , Vue , React and other  frontend frameworks
 - 🚀 Graduate of AltschoolAfrica's Frontend Engineering program
 - 💞️ Open to collaborating on innovative web projects and opportunities
 - 📫 How to reach me 
